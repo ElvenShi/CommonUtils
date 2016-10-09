@@ -96,6 +96,7 @@ public class SystemUtils {
 
 
     /**
+     * 根据指定的pid，获得对应的进程名称
      * @return null may be returned if the specified process not found
      */
     public static String getProcessName(Context cxt, int pid) {
