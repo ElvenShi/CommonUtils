@@ -16,7 +16,7 @@ import java.util.List;
  * getViewTypeCount()两个方法。
  * <br>
  * <br>
- * <a href=""/>
+ * 示例：http://blog.csdn.net/loveyaozu/article/details/52947808
  */
 
 public abstract class CommonAdapter<T> extends BaseAdapter {
